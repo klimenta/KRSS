@@ -25,7 +25,7 @@ namespace KRSS.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://blog.iandreev.com/?feed=rss2")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://feeds.mashable.com/Mashable")]
         public string RSS1 {
             get {
                 return ((string)(this["RSS1"]));
@@ -73,7 +73,7 @@ namespace KRSS.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://feeds.mashable.com/Mashable")]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://blog.iandreev.com/?feed=rss2")]
         public string RSS5 {
             get {
                 return ((string)(this["RSS5"]));

@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="RSS1" Type="System.String" Scope="User">
-      <Value Profile="(Default)">https://blog.iandreev.com/?feed=rss2</Value>
+      <Value Profile="(Default)">http://feeds.mashable.com/Mashable</Value>
     </Setting>
     <Setting Name="RSS2" Type="System.String" Scope="User">
       <Value Profile="(Default)">http://feeds.bbci.co.uk/news/world/rss.xml</Value>
@@ -15,7 +15,7 @@
       <Value Profile="(Default)">http://feeds.gawker.com/lifehacker/full.xml</Value>
     </Setting>
     <Setting Name="RSS5" Type="System.String" Scope="User">
-      <Value Profile="(Default)">http://feeds.mashable.com/Mashable</Value>
+      <Value Profile="(Default)">https://blog.iandreev.com/?feed=rss2</Value>
     </Setting>
   </Settings>
 </SettingsFile>

@@ -209,23 +209,22 @@ namespace KRSS
                 //For each update
                 foreach (string strURLChange in lstrNewURLs)
                 {
+                    int c = 0;
                     //Get the host name
                     Uri uriUri = new Uri(strURLChange);
                     string strHost = uriUri.Host;
                     //Show the host name plus the text from the combobox as
                     //a balloon tip
-                    ShowUpdate(strHost, cbRSSFeed[i].Items[i].ToString());
+                    ShowUpdate(strHost, cbRSSFeed[i].Items[c].ToString());
+                    c++;
                 }
                 //Once the update is shown, clear the old RSS Feeds, they are not needed
                 lstrOldURLs[i].Clear();
-                //Copy the array, i.e make lstrOldURLs equal as lstrURLs
-                for (int j = 0; j < cRSSElements; j++)
+                //Copy the array, i.e make lstrOldURLs equal as lstrURLs                               
+                foreach (string str in lstrURLs[i])
                 {
-                    foreach (string str in lstrURLs[j])
-                    {
-                        lstrOldURLs[j].Add(str);
-                    }
-                }
+                    lstrOldURLs[i].Add(str);
+                }                
             }
         }
 
