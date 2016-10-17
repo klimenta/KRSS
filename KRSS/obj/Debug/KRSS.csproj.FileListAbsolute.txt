@@ -1,0 +1,18 @@
+c:\users\kliment.andreev\documents\visual studio 2015\Projects\KRSS\KRSS\bin\Debug\KRSS.exe.config
+c:\users\kliment.andreev\documents\visual studio 2015\Projects\KRSS\KRSS\bin\Debug\KRSS.exe
+c:\users\kliment.andreev\documents\visual studio 2015\Projects\KRSS\KRSS\bin\Debug\KRSS.pdb
+c:\users\kliment.andreev\documents\visual studio 2015\Projects\KRSS\KRSS\obj\Debug\KRSS.frmMain.resources
+c:\users\kliment.andreev\documents\visual studio 2015\Projects\KRSS\KRSS\obj\Debug\KRSS.Properties.Resources.resources
+c:\users\kliment.andreev\documents\visual studio 2015\Projects\KRSS\KRSS\obj\Debug\KRSS.csproj.GenerateResource.Cache
+c:\users\kliment.andreev\documents\visual studio 2015\Projects\KRSS\KRSS\obj\Debug\KRSS.exe
+c:\users\kliment.andreev\documents\visual studio 2015\Projects\KRSS\KRSS\obj\Debug\KRSS.pdb
+c:\users\kliment.andreev\documents\visual studio 2015\Projects\KRSS\KRSS\obj\Debug\KRSS.frmSettings.resources
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\bin\Debug\KRSS.exe.config
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\bin\Debug\KRSS.exe
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\bin\Debug\KRSS.pdb
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Debug\KRSS.frmSettings.resources
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Debug\KRSS.Properties.Resources.resources
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Debug\KRSS.csproj.GenerateResource.Cache
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Debug\KRSS.exe
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Debug\KRSS.pdb
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Debug\KRSS.frmMain.resources

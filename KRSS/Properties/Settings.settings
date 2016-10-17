@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KRSS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RSS1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://blog.iandreev.com/?feed=rss2</Value>
+    </Setting>
+    <Setting Name="RSS2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://feeds.bbci.co.uk/news/world/rss.xml</Value>
+    </Setting>
+    <Setting Name="RSS3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://feeds.feedburner.com/neowin-main</Value>
+    </Setting>
+    <Setting Name="RSS4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://feeds.gawker.com/lifehacker/full.xml</Value>
+    </Setting>
+    <Setting Name="RSS5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://feeds.mashable.com/Mashable</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,18 @@
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\bin\Release\KRSS.exe.config
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\bin\Release\KRSS.exe
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\bin\Release\KRSS.pdb
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Release\KRSS.frmMain.resources
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Release\KRSS.frmSettings.resources
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Release\KRSS.Properties.Resources.resources
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Release\KRSS.csproj.GenerateResource.Cache
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Release\KRSS.exe
+C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Release\KRSS.pdb
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\KRSS\KRSS\bin\Release\KRSS.exe.config
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\KRSS\KRSS\obj\Release\KRSS.exe
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\KRSS\KRSS\obj\Release\KRSS.pdb
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\KRSS\KRSS\bin\Release\KRSS.exe
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\KRSS\KRSS\bin\Release\KRSS.pdb
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\KRSS\KRSS\obj\Release\KRSS.frmMain.resources
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\KRSS\KRSS\obj\Release\KRSS.frmSettings.resources
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\KRSS\KRSS\obj\Release\KRSS.Properties.Resources.resources
+C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\KRSS\KRSS\obj\Release\KRSS.csproj.GenerateResource.Cache
