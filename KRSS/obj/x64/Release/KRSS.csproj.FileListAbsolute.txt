@@ -1,0 +1,10 @@
+P:\dotnet\KRSS\KRSS\bin\x64\Release\KRSS.exe.config
+P:\dotnet\KRSS\KRSS\bin\x64\Release\KRSS.exe
+P:\dotnet\KRSS\KRSS\bin\x64\Release\KRSS.pdb
+P:\dotnet\KRSS\KRSS\obj\x64\Release\KRSS.frmMain.resources
+P:\dotnet\KRSS\KRSS\obj\x64\Release\KRSS.frmSettings.resources
+P:\dotnet\KRSS\KRSS\obj\x64\Release\KRSS.Properties.Resources.resources
+P:\dotnet\KRSS\KRSS\obj\x64\Release\KRSS.csproj.GenerateResource.cache
+P:\dotnet\KRSS\KRSS\obj\x64\Release\KRSS.csproj.CoreCompileInputs.cache
+P:\dotnet\KRSS\KRSS\obj\x64\Release\KRSS.exe
+P:\dotnet\KRSS\KRSS\obj\x64\Release\KRSS.pdb

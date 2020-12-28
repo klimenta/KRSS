@@ -3,19 +3,19 @@
   <Profiles />
   <Settings>
     <Setting Name="RSS1" Type="System.String" Scope="User">
-      <Value Profile="(Default)">http://feeds.mashable.com/Mashable</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="RSS2" Type="System.String" Scope="User">
-      <Value Profile="(Default)">http://feeds.bbci.co.uk/news/world/rss.xml</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="RSS3" Type="System.String" Scope="User">
-      <Value Profile="(Default)">http://feeds.feedburner.com/neowin-main</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="RSS4" Type="System.String" Scope="User">
-      <Value Profile="(Default)">http://feeds.gawker.com/lifehacker/full.xml</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="RSS5" Type="System.String" Scope="User">
-      <Value Profile="(Default)">https://blog.iandreev.com/?feed=rss2</Value>
+      <Value Profile="(Default)" />
     </Setting>
   </Settings>
 </SettingsFile>

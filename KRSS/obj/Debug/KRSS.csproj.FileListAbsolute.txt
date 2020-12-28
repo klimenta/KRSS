@@ -17,3 +17,13 @@ C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Deb
 C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Debug\KRSS.pdb
 C:\Users\klimenta\OneDrive - futurebit computers, LLC\Projects\KRSS\KRSS\obj\Debug\KRSS.frmMain.resources
 C:\Users\Kliment.ANDREEV\documents\visual studio 2015\Projects\KRSS\KRSS\obj\Debug\KRSS.csprojResolveAssemblyReference.cache
+P:\dotnet\KRSS\KRSS\bin\Debug\KRSS.exe.config
+P:\dotnet\KRSS\KRSS\bin\Debug\KRSS.exe
+P:\dotnet\KRSS\KRSS\bin\Debug\KRSS.pdb
+P:\dotnet\KRSS\KRSS\obj\Debug\KRSS.frmMain.resources
+P:\dotnet\KRSS\KRSS\obj\Debug\KRSS.frmSettings.resources
+P:\dotnet\KRSS\KRSS\obj\Debug\KRSS.Properties.Resources.resources
+P:\dotnet\KRSS\KRSS\obj\Debug\KRSS.csproj.GenerateResource.cache
+P:\dotnet\KRSS\KRSS\obj\Debug\KRSS.csproj.CoreCompileInputs.cache
+P:\dotnet\KRSS\KRSS\obj\Debug\KRSS.exe
+P:\dotnet\KRSS\KRSS\obj\Debug\KRSS.pdb

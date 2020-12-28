@@ -12,7 +12,7 @@ namespace KRSS.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "14.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.8.1.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -25,7 +25,7 @@ namespace KRSS.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://feeds.mashable.com/Mashable")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string RSS1 {
             get {
                 return ((string)(this["RSS1"]));
@@ -37,7 +37,7 @@ namespace KRSS.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://feeds.bbci.co.uk/news/world/rss.xml")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string RSS2 {
             get {
                 return ((string)(this["RSS2"]));
@@ -49,7 +49,7 @@ namespace KRSS.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://feeds.feedburner.com/neowin-main")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string RSS3 {
             get {
                 return ((string)(this["RSS3"]));
@@ -61,7 +61,7 @@ namespace KRSS.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://feeds.gawker.com/lifehacker/full.xml")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string RSS4 {
             get {
                 return ((string)(this["RSS4"]));
@@ -73,7 +73,7 @@ namespace KRSS.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://blog.iandreev.com/?feed=rss2")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string RSS5 {
             get {
                 return ((string)(this["RSS5"]));
