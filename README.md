@@ -20,3 +20,13 @@ When something news comes up, the feed will be refreshed and you'll get a notifi
 ![Example](example.png)
 
 If you don't like some RSS channels, simply edit and remove the URL.
+
+**NOTE:** If there are any issues with the RSS channels and the program crashes, remove the whole **KRSS** folder under **%LOCALAPPDATA%**.
+
+# Feeds
+
+Here are some news feeds.
+
+# CNN - http://rss.cnn.com/rss/cnn_topstories.rss
+# Fox News - https://feeds.foxnews.com/foxnews/latest
+# BBC - http://feeds.bbci.co.uk/news/rss.xml?edition=us
